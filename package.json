@@ -1,0 +1,22 @@
+{
+  "name": "dever_de_casa_git",
+  "version": "1.0.0",
+  "description": "dever de casa",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Walmir-Ag/dever_de_casa-branchs.git"
+  },
+  "author": "Walmir (Ag)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Walmir-Ag/dever_de_casa-branchs/issues"
+  },
+  "homepage": "https://github.com/Walmir-Ag/dever_de_casa-branchs#readme",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
